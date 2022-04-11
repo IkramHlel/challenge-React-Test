@@ -1,0 +1,2 @@
+export const GET_CARDS = 'GET_CARDS';
+export const GET_POSSIBLE_AMOUNTS = 'GET_POSSIBLE_AMOUNTS';
